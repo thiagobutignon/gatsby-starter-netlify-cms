@@ -2,10 +2,8 @@
 templateKey: index-page
 title: Bem vindo à Beta Quark
 image: /img/home-jumbotron.jpg
-heading: >-
-  Somos uma Venture Builder com foco em fintechs, meios de pagamentos e
-  experiência.
-subheading: Criar negócios baseados em hábitos
+heading: Venture builder especializada em fintechs
+subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Why Kaldi
   description: >
