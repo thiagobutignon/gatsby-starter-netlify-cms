@@ -5,7 +5,7 @@ image: /img/home-jumbotron.jpg
 heading: >-
   Somos uma Venture Builder com foco em fintechs, meios de pagamentos e
   experiência.
-subheading: Support sustainable farming while enjoying a cup
+subheading: Criar negócios baseados em hábitos
 mainpitch:
   title: Why Kaldi
   description: >
