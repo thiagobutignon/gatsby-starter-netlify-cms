@@ -1,11 +1,12 @@
 ---
 templateKey: index-page
-title: Bem vindo à Beta Quark
+title: Beta Quark
 image: /img/home-jumbotron.jpg
-heading: Venture builder especializada em fintechs
+heading: Venture builder
+welcome_id: Bem vindo à
 subheading: Criamos soluções incríveis
 mainpitch:
-  title: Why Kaldi
+  title: Thiago
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans

@@ -33,7 +33,7 @@ export const ProductPageTemplate = ({
                       : image
                   })`,
                 }}
-              >
+              >z
                 <h2
                   className="has-text-weight-bold is-size-1"
                   style={{
